@@ -1,13 +1,13 @@
-baseURL = 'https://zeitnotme.netlify.app/'
+baseURL = 'https://zeitnot.me/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'zeitnot'
 theme="hugo-theme-shell"
 
 
 
 [Params]
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
-  description = "Niks Portfolio!"
+  description = "niks portfolio!"
   [Params.Terminal]
   # Note: color scheme
   # Note: You can choose between
@@ -28,7 +28,7 @@ theme="hugo-theme-shell"
   # Note: result of the tree command
   userName = "nik"
   pcName = "laptop"
-  workDir = "mydir"
+  workDir = "whoiam"
   profile = "profile.txt"
 
   # Note: speed at which text is displayed on the terminal
@@ -64,13 +64,13 @@ theme="hugo-theme-shell"
 
   [Params.Tree]
   use = true
-  folderName = "my_activity"
+  folderName = "my_activities"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["C/C++", "http://www.example.com/"],
-    ["Python", "https://www.example.com/"],
-    ["Go", "https://github.com/n14s/prometheus-usb-detection/"],
-    ["Hugo", "/post/some-activity.md"],
-    ["Docker", "/post/some-activity.md"],
+    ["Coding: Java, Python, Go, Typescript/Svelte, MongoDB, PostgreSQL", "https://github.com/n14s"],
+    ["DevOps: Git, Gitlab CI, Ansible, Docker, Prometheus, Thanos", "https://github.com/n14s"],
+    ["Music: Guitar, Piano, Production", "https://soundcloud.com/d0ndeestalabiblioteca"],
+    ["Sports: Footvolley, Slacklining, Mountainbiking, Chess", "https://www.youtube.com/watch?v=xlgt1LAErlg"],
+    ["Books: Philosophy, Politics, History", "https://www.goodreads.com/n14s"],
   ]
 
