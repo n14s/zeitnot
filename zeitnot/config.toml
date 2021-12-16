@@ -29,7 +29,7 @@ theme="hugo-theme-shell"
   userName = "nik"
   pcName = "laptop"
   workDir = "whoiam"
-  profile = "profile.txt"
+  profile = "greeting.txt"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
@@ -69,6 +69,7 @@ theme="hugo-theme-shell"
   files = [ 
     ["Coding: Java, Python, Go, Typescript/Svelte, MongoDB, PostgreSQL", "https://github.com/n14s"],
     ["DevOps: Git, Gitlab CI, Ansible, Docker, Prometheus, Thanos", "https://github.com/n14s"],
+    ["Machine: Linux, Emacs, Vim, Emacs, Emacs, I <3 Emacs", "https://xkcd.com/378/"],
     ["Music: Guitar, Piano, Production", "https://soundcloud.com/d0ndeestalabiblioteca"],
     ["Sports: Footvolley, Slacklining, Mountainbiking, Chess", "https://www.youtube.com/watch?v=xlgt1LAErlg"],
     ["Books: Philosophy, Politics, History", "https://www.goodreads.com/n14s"],
