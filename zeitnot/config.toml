@@ -1,4 +1,4 @@
-baseURL = 'https://zeitnot.me/'
+baseURL = 'https://zeitnot.site/'
 languageCode = 'en-us'
 title = 'zeitnot'
 theme="hugo-theme-shell"
